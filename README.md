@@ -1,6 +1,3 @@
-Certainly! Here's a general instructions section you can include in your README file that explains how to compile and run Java programs in your repository.
-
----
 
 ## General Instructions for Running Java Programs
 
